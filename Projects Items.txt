@@ -1,0 +1,76 @@
+<section id="type_1 projects">
+
+    <div class="container">
+      
+      <!-- section title -->
+	   <h2 class="section-title wow fadeInUp" style="visibility: visible; animation-name: fadeInUp;">My Type-1 Projects</h2>
+
+      <div class="spacer" data-height="60" style="height: 60px;"></div>
+      
+      <div class="row blog-wrapper">
+        
+        <!-- projects item -->
+        <div class="col-md-4">
+          <div class="blog-item rounded bg-white shadow-dark wow fadeIn" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeIn;">
+            <div class="thumb">
+              <a href="https://studio.code.org/projects/flappy/yzzPchLK71s9LyjmgerRTHKsKZhllQWwkybLEEcWU_k">
+                <img src="Flapper.png" alt="blog-title">
+              </a>
+            </div>
+            <div class="details">
+              <h4 class="my-0 title">
+              	<a href="https://studio.code.org/projects/flappy/yzzPchLK71s9LyjmgerRTHKsKZhllQWwkybLEEcWU_k">Flapper</a>
+              </h4>
+              <ul class="list-inline meta mb-0 mt-2">
+                <li class="list-inline-item"></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+
+		<div class="col-md-4">
+			<div class="blog-item rounded bg-white shadow-dark wow fadeIn" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeIn;">
+			  <div class="thumb">
+				<a href="https://studio.code.org/projects/gamelab/5j7jsMQRgwrdPm8BHqMRKimEj6uappFZMY4tzVzdy_I">
+				  <img src="pac_man.png" alt="blog-title">
+				</a>
+			  </div>
+			  <div class="details">
+				<h4 class="my-0 title">
+					<a href="https://studio.code.org/projects/gamelab/5j7jsMQRgwrdPm8BHqMRKimEj6uappFZMY4tzVzdy_I">Pac-guy</a>
+				</h4>
+				<ul class="list-inline meta mb-0 mt-2">
+				  <li class="list-inline-item"></li>
+				</ul>
+			  </div>
+			</div>
+		  </div>
+
+		  <div class="col-md-4">
+			<div class="blog-item rounded bg-white shadow-dark wow fadeIn" data-wow-delay="200ms" style="visibility: visible; animation-delay: 200ms; animation-name: fadeIn;">
+			  <div class="thumb">
+				<a href="https://studio.code.org/projects/applab/kXdEr4t_89nfYhJc3qnvJyWbacfQz1Vi3nT39Abq3Jo">
+				  <img src="Pass_gen.png" alt="blog-title">
+				</a>
+			  </div>
+			  <div class="details">
+				<h4 class="my-0 title">
+					<a href="https://studio.code.org/projects/applab/kXdEr4t_89nfYhJc3qnvJyWbacfQz1Vi3nT39Abq3Jo">Password Generator</a>
+				</h4>
+				<ul class="list-inline meta mb-0 mt-2">
+				  <li class="list-inline-item"></li>
+				</ul>
+			  </div>
+			</div>
+		  </div>
+        <!-- end project item -->
+
+      </div>
+
+    </div>
+
+  </section>
+  
+  <section id="type_2 projects">
+
+    <div class="container">
